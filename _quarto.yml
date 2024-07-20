@@ -8,12 +8,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: About Me
+        text: about
       - href: publications.qmd
-        text: Publications
+        text: publications
     right: 
       - href: siteDetails.qmd
-        text: "Site Details"
+        text: "site details"
 
 format:
   html:

@@ -1,5 +1,5 @@
 ---
-title: "Site Details"
+title: "site details"
 ---
 
 I built this website with help from:
