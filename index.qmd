@@ -1,5 +1,5 @@
 ---
-title: "vincentott.github.io"
+title: "About Me"
 ---
 
 I like to model memory & to visualize data. ✨

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "vincentott.github.io",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Test 77.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I like to model memory & to visualize data. ✨"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar"
   }
 ]

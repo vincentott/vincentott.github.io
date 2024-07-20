@@ -2,4 +2,4 @@
 title: "Publications"
 ---
 
-https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
+[Google Scholar](https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en)
