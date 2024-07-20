@@ -2,10 +2,4 @@
 title: "vincentott.github.io"
 ---
 
-This is a Test 77.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I like to model memory & to visualize data. ✨

@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "vincentott.github.io"
+  title: "Vincent L. Ott"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
+        text: About Me
+      - href: publications.qmd
+        text: Publications
 
 format:
   html:
