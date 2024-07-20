@@ -1,5 +1,17 @@
----
-title: "About Me"
----
 
-I like to model memory & to visualize data. ✨
+Hi there! 🙂
+
+<br>
+
+I like to model memory & to visualize data.
+
+<br>
+
+And this website is still under construction. 🔨👷
+
+<br>
+
+Meanwhile, you can find me on:
+
+* [Bluesky](https://bsky.app/profile/vlott.bsky.social)
+* [Github](https://github.com/vincentott)

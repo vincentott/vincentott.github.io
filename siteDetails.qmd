@@ -1,0 +1,8 @@
+---
+title: "Site Details"
+---
+
+I built this website with help from:
+
+* [Matt Dray](https://matt-dray.com)´s [personal website source](https://github.com/matt-dray/personal-site)
+* [Joshua P French](https://jfrench.github.io/)´s [youtube tutorial](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=1)

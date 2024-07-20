@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Vincent L. Ott",
     "section": "",
-    "text": "I like to model memory & to visualize data. ✨"
+    "text": "Hi there! 🙂\n\nI like to model memory & to visualize data.\n\nAnd this website is still under construction. 🔨👷\n\nMeanwhile, you can find me on:\n\nBluesky\nGithub"
   },
   {
     "objectID": "about.html",
@@ -18,6 +18,13 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Google Scholar"
+    "text": "You can find my publications on Google Scholar."
+  },
+  {
+    "objectID": "siteDetails.html",
+    "href": "siteDetails.html",
+    "title": "Site Details",
+    "section": "",
+    "text": "I built this website with help from:\n\nMatt Dray´s personal website source\nJoshua P French´s youtube tutorial"
   }
 ]
