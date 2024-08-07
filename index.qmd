@@ -1,6 +1,9 @@
 ---
 about:
   template: jolla
+  image: ottSocialMedia1.jpg
+  image-shape: round
+  image-width: 15em
   links:
     - text: Scholar
       icon: google
