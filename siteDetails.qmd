@@ -1,9 +1,3 @@
----
-title: "site details"
----
-
-<br>
-
 I built this website with help from:
 
 * [Matt Dray](https://matt-dray.com)´s [personal website source](https://github.com/matt-dray/personal-site)

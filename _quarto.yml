@@ -11,6 +11,10 @@ website:
         text: about
       - href: publications.qmd
         text: publications
+      - href: raincloudplots.qmd
+        text: raincloud plots
+      - href: game.qmd
+        text: "🧪🕹"
     right: 
       - href: siteDetails.qmd
         text: "site details"

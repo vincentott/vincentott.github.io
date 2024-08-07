@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "Hi there! 🙂\n\nI like to model memory & to visualize data.\n\nAnd this website is still under construction. 🔨👷\n\nMeanwhile, you can find me on:\n\nBluesky\nGithub"
+    "text": "Hi 🙂\nI like to model memory & to visualize data. ✨\n📍Amsterdam"
   },
   {
     "objectID": "about.html",
@@ -16,15 +16,36 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "publications",
+    "title": "Vincent L. Ott",
     "section": "",
-    "text": "Find my publications on Google Scholar."
+    "text": "Find my publications on Google Scholar while this website is still under development."
   },
   {
     "objectID": "siteDetails.html",
     "href": "siteDetails.html",
-    "title": "site details",
+    "title": "Vincent L. Ott",
     "section": "",
     "text": "I built this website with help from:\n\nMatt Dray´s personal website source\nJoshua P. French´s youtube tutorial"
+  },
+  {
+    "objectID": "livelycells.html",
+    "href": "livelycells.html",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "Play a simulation game here that I programmed."
+  },
+  {
+    "objectID": "game.html",
+    "href": "game.html",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "Play a simulation game that I programmed here."
+  },
+  {
+    "objectID": "raincloudplots.html",
+    "href": "raincloudplots.html",
+    "title": "🌦️",
+    "section": "",
+    "text": "If you want to draw meaningful conclusions from a data set,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences, so called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data."
   }
 ]

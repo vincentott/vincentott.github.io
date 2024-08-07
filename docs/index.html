@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -64,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -89,6 +88,14 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./publications.html" rel="" target="">
  <span class="menu-text">publications</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./raincloudplots.html" rel="" target="">
+ <span class="menu-text">raincloud plots</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./game.html" rel="" target="">
+ <span class="menu-text">🧪🕹</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
@@ -106,30 +113,33 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<div class="quarto-about-jolla">
+ <main class="content" id="quarto-document-content">
+<p>Hi 🙂</p>
+<p>I like to model memory &amp; to visualize data. ✨</p>
+<p>📍Amsterdam</p>
 
 
-
-<p><br></p>
-<p>Hi there! 🙂</p>
-<p><br></p>
-<p>I like to model memory &amp; to visualize data.</p>
-<p><br></p>
-<p>And this website is still under construction. 🔨👷</p>
-<p><br></p>
-<p>Meanwhile, you can find me on:</p>
-<ul>
-<li><a href="https://bsky.app/profile/vlott.bsky.social">Bluesky</a></li>
-<li><a href="https://github.com/vincentott">Github</a></li>
-</ul>
-
-
-
-</main> <!-- /main -->
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://scholar.google.com/citations?user=b9HuDNIAAAAJ&amp;hl=en" class="about-link" rel="" target="">
+    <i class="bi bi-google"></i>
+     <span class="about-link-text">Scholar</span>
+  </a>
+  <a href="https://bsky.app/profile/vlott.bsky.social" class="about-link" rel="" target="">
+    <i class="bi bi-chat-left-text"></i>
+     <span class="about-link-text">Bluesky</span>
+  </a>
+  <a href="https://github.com/vincentott" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+</div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -150,13 +160,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

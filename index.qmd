@@ -1,19 +1,19 @@
+---
+about:
+  template: jolla
+  links:
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
+    - text: Bluesky
+      icon: chat-left-text
+      href: https://bsky.app/profile/vlott.bsky.social
+    - text: Github
+      icon: github
+      href: https://github.com/vincentott
+---
+Hi 🙂  
 
-<br>
+I like to model memory & to visualize data. ✨  
 
-Hi there! 🙂
-
-<br>
-
-I like to model memory & to visualize data.
-
-<br>
-
-And this website is still under construction. 🔨👷
-
-<br>
-
-Meanwhile, you can find me on:
-
-* [Bluesky](https://bsky.app/profile/vlott.bsky.social)
-* [Github](https://github.com/vincentott)
+📍Amsterdam
