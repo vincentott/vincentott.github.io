@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "Hi 🙂\nI like to model memory & to visualize data. ✨\n📍Amsterdam"
+    "text": "Hi 🙂\nI like to model memory & to visualize data.\n📍Amsterdam"
   },
   {
     "objectID": "about.html",
@@ -25,7 +25,7 @@
     "href": "siteDetails.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "I built this website with help from:\n\nMatt Dray´s personal website source\nJoshua P. French´s youtube tutorial"
+    "text": "The following helped me create this site:\n\nMatt Dray´s personal website source\nJoshua P. French´s youtube tutorial\nThe Poppins Google font\nChatGPT"
   },
   {
     "objectID": "livelycells.html",
@@ -46,6 +46,6 @@
     "href": "raincloudplots.html",
     "title": "🌦️",
     "section": "",
-    "text": "If you want to draw meaningful conclusions from a data set,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences, so called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data."
+    "text": "If you want to draw meaningful conclusions data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data."
   }
 ]

@@ -1,4 +1,13 @@
-I built this website with help from:
+The following helped me create this site:
+
 
 * [Matt Dray](https://matt-dray.com)´s [personal website source](https://github.com/matt-dray/personal-site)
+
+
 * [Joshua P. French](https://jfrench.github.io/)´s [youtube tutorial](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=1)
+
+
+* The [Poppins](https://fonts.google.com/specimen/Poppins) Google font
+
+
+* [ChatGPT](https://chatgpt.com)

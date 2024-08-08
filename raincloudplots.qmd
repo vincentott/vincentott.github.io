@@ -2,10 +2,11 @@
 title: "🌦️"
 ---
 
-If you want to draw meaningful conclusions from a data set,  
+If you want to draw meaningful conclusions data,  
 you should visualize it as it might otherwise mislead you.  
   
-For many scenarios in empirical sciences, so called raincloud plots are incredibly useful for this. 
+For many scenarios in empirical sciences,  
+so called raincloud plots are incredibly useful for this.  
   
 In [this blog post](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/) I explain how raincloud plots work and  
 how you can easily use them to visualize your own data.
