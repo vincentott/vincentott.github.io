@@ -46,6 +46,6 @@
     "href": "raincloudplots.html",
     "title": "🌦️",
     "section": "",
-    "text": "If you want to draw meaningful conclusions data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data."
+    "text": "If you want to draw meaningful conclusions from data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data."
   }
 ]

@@ -2,7 +2,7 @@
 title: "🌦️"
 ---
 
-If you want to draw meaningful conclusions data,  
+If you want to draw meaningful conclusions from data,  
 you should visualize it as it might otherwise mislead you.  
   
 For many scenarios in empirical sciences,  
