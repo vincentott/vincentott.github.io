@@ -8,6 +8,9 @@ about:
     - text: Scholar
       icon: google
       href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
+    - text: OSF
+      icon: unlock-fill
+      href: https://osf.io/6qmdv/
     - text: Bluesky
       icon: chat-left-text
       href: https://bsky.app/profile/vlott.bsky.social
