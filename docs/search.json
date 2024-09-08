@@ -18,14 +18,14 @@
     "href": "publications.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "Find my publications on Google Scholar while this website is still under development."
+    "text": "Bartoš, F., Sarafoglou, A., Godmann, H. R., […] Ott, V. L., […] & Wagenmakers, E. J. (2023).\nFair coins tend to land on the same side they started: Evidence from 350,757 flips.\n&gt; arXiv"
   },
   {
     "objectID": "siteDetails.html",
     "href": "siteDetails.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "The following helped me create this site:\n\nMatt Dray´s personal website source\nJoshua P. French´s youtube tutorial\nThe Poppins Google font\nChatGPT"
+    "text": "The following helped me create this site:\n\nMatt Dray´s personal website source\nJoshua P. French´s youtube tutorial\nPoppins Google font\nMetallic Chic color palette\nChatGPT"
   },
   {
     "objectID": "livelycells.html",
@@ -44,8 +44,36 @@
   {
     "objectID": "raincloudplots.html",
     "href": "raincloudplots.html",
-    "title": "🌦️",
+    "title": "🌦",
     "section": "",
-    "text": "If you want to draw meaningful conclusions from data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data."
+    "text": "[ this page is under development ]\nIf you want to draw meaningful conclusions from data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "Bartoš, F., Sarafoglou, A., Godmann, H. R., […] Ott, V. L., […] & Wagenmakers, E. J. (2023).\nFair coins tend to land on the same side they started: Evidence from 350,757 flips.\n&gt; arXiv"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed",
+    "href": "publications.html#peer-reviewed",
+    "title": "Vincent L. Ott",
+    "section": "Peer Reviewed",
+    "text": "Peer Reviewed\n\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024). *equal contribution\nBetter source memory for remembered to-be-forgotten items than for remembered to-be-remembered items.\nJournal of Experimental Psychology: Learning, Memory, and Cognition.\n&gt; read preformatted or at journal"
+  },
+  {
+    "objectID": "publications.html#other",
+    "href": "publications.html#other",
+    "title": "Vincent L. Ott",
+    "section": "Other",
+    "text": "Other\nmyTest3"
+  },
+  {
+    "objectID": "publications.html#miscellaneous",
+    "href": "publications.html#miscellaneous",
+    "title": "Vincent L. Ott",
+    "section": "Miscellaneous",
+    "text": "Miscellaneous\n\nOtt, V. L. (2024).\nRaincloud Plots in JASP: Incredibly Useful, Surprisingly Easy\n&gt; JASP blog"
   }
 ]

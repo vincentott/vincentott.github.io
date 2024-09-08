@@ -7,7 +7,9 @@ The following helped me create this site:
 * [Joshua P. French](https://jfrench.github.io/)´s [youtube tutorial](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=1)
 
 
-* The [Poppins](https://fonts.google.com/specimen/Poppins) Google font
+* [Poppins](https://fonts.google.com/specimen/Poppins) Google font
+
+* [Metallic Chic](https://www.color-hex.com/color-palette/1044630) color palette
 
 
 * [ChatGPT](https://chatgpt.com)

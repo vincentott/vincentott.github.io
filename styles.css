@@ -4,3 +4,23 @@
 * {
   font-family: 'Poppins', sans-serif;
 }
+
+/*
+
+color of hovered links
+a:hover {
+  color: #3D52A0 /* from https://visme.co/blog/website-color-schemes/
+}
+
+Style for the active/selected section in the sidebar
+.sidebar .active, .sidebar .current {
+  linkcolor: #4CAF50 !important;  /* Change this to the color you want
+}
+Optional: Style the links inside the active section
+.sidebar .active a, .sidebar .current a {
+  linkcolor: #4CAF50 !important; Change this to the link color inside the active section
+}
+
+*/
+
+

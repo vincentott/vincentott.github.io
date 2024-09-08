@@ -1,2 +1,18 @@
-Find [my publications on Google Scholar](https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en)
-while this website is still under development.
+## Preprints
+
+- Bartoš, F., Sarafoglou, A., Godmann, H. R., [...] Ott, V. L., [...] & Wagenmakers, E. J. (2023).  
+Fair coins tend to land on the same side they started: Evidence from 350,757 flips.   
+> [arXiv](https://arxiv.org/abs/2310.04153)
+
+## Peer Reviewed
+
+- Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024).  \*equal contribution  
+Better source memory for remembered to-be-forgotten items than for remembered to-be-remembered items.  
+Journal of Experimental Psychology: Learning, Memory, and Cognition.  
+> read [preformatted](https://osf.io/v7wp2) or [at journal](https://doi.org/10.1037/xlm0001362)
+
+## Miscellaneous
+
+- Ott, V. L. (2024).  
+Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy  
+> [JASP blog](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/)
