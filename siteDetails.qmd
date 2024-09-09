@@ -1,15 +1,11 @@
 The following helped me create this site:
 
+* <a href="https://matt-dray.com" target="_blank">Matt Dray</a>´s <a href="https://github.com/matt-dray/personal-site" target="_blank">personal website source</a>
 
-* [Matt Dray](https://matt-dray.com)´s [personal website source](https://github.com/matt-dray/personal-site)
+* <a href="https://jfrench.github.io/" target="_blank">Joshua P. French</a>´s <a href="https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=1" target="_blank">youtube tutorial</a>
 
+* <a href="https://fonts.google.com/specimen/Poppins" target="_blank">Poppins</a> Google font
 
-* [Joshua P. French](https://jfrench.github.io/)´s [youtube tutorial](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=1)
+* <a href="https://www.color-hex.com/color-palette/1044630" target="_blank">Metallic Chic</a> color palette
 
-
-* [Poppins](https://fonts.google.com/specimen/Poppins) Google font
-
-* [Metallic Chic](https://www.color-hex.com/color-palette/1044630) color palette
-
-
-* [ChatGPT](https://chatgpt.com)
+* <a href="https://chatgpt.com" target="_blank">ChatGPT</a>

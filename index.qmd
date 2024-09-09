@@ -1,25 +1,30 @@
 ---
 about:
   template: jolla
-  image: ottSocialMedia1.jpg
+  image: pictures/ottSocialMedia1.jpg
   image-shape: round
   image-width: 15em
   links:
     - text: Scholar
       icon: google
       href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
+      target: "_blank"
     - text: OSF
       icon: unlock-fill
       href: https://osf.io/6qmdv/
+      target: "_blank"
     - text: Bluesky
       icon: chat-left-text
       href: https://bsky.app/profile/vlott.bsky.social
+      target: "_blank"
     - text: Github
       icon: github
       href: https://github.com/vincentott
+      target: "_blank"
 ---
-Hi 🙂  
-
+Hi, I am Vincent. 🙂  
 I like to model memory & to visualize data.  
 
-📍Amsterdam
+📍 Amsterdam   
+
+Browse my publications [here](publications.qmd) & learn about raincloud plots [here](raincloudplots.qmd).
