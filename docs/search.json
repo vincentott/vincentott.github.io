@@ -46,7 +46,7 @@
     "href": "raincloudplots.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "If you want to draw meaningful conclusions from data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data.\nFor example, to see how penguins´ body mass and flipper length are distributed: 🐧"
+    "text": "If you want to draw meaningful conclusions from data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data.\nFor example, to see how penguins´ body mass and flipper length are distributed:"
   },
   {
     "objectID": "publications.html#preprints",
@@ -60,7 +60,7 @@
     "href": "publications.html#peer-reviewed",
     "title": "Vincent L. Ott",
     "section": "Peer Reviewed",
-    "text": "Peer Reviewed\n\nBetter source memory for remembered to-be-forgotten items than for remembered to-be-remembered items.\nJournal of Experimental Psychology: Learning, Memory, and Cognition.\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024).\n&gt; read preformatted or at journal"
+    "text": "Peer Reviewed\n\nBetter source memory for remembered to-be-forgotten items\nthan for remembered to-be-remembered items.\nJournal of Experimental Psychology: Learning, Memory, and Cognition.\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024).\n&gt; read preformatted or at journal"
   },
   {
     "objectID": "publications.html#other",

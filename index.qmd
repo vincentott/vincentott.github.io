@@ -2,7 +2,7 @@
 about:
   template: jolla
   image: pictures/ottSocialMedia1.jpg
-  image-shape: round
+  image-shape: rounded
   image-width: 15em
   links:
     - text: Scholar

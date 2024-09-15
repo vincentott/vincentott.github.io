@@ -11,7 +11,8 @@ Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (202
 
 ## Peer Reviewed
 
-- *Better source memory for remembered to-be-forgotten items than for remembered to-be-remembered items.*  
+- *Better source memory for remembered to-be-forgotten items  
+than for remembered to-be-remembered items.*  
 Journal of Experimental Psychology: Learning, Memory, and Cognition.  
 Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024).  
 > read <a href="https://osf.io/v7wp2" target="_blank">preformatted</a> or <a href="https://doi.org/10.1037/xlm0001362" target="_blank">at journal</a>
