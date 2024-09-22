@@ -1,24 +1,30 @@
-Below are my publications.  
+## Publications 
 \* = equal contribution
 
-## Preprints
 
-- *Fair coins tend to land on the same side they started: Evidence from 350,757 flips.*  
-Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023).   
-> <a href="https://improbable.com/ig/winners/#ig2024" target="_blank">Ig Nobel Prize 2024 in Probability</a>  
-> <a href="https://www.bayesianspectacles.org/coin-tossing-paper-wins-chinese-ignobel-pineapple-award/" target="_blank">Pinapple Science Award 2023 in Mathematics</a>  
-> <a href="https://arxiv.org/abs/2310.04153" target="_blank">arXiv</a>
 
-## Peer Reviewed
+### Preprints
+<br>
+**Fair coins tend to land on the same side they started: Evidence from 350,757 flips.**  
+Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023).  
+<a href="https://arxiv.org/abs/2310.04153" target="_blank">arXiv</a>  
+<a href="https://improbable.com/ig/winners/#ig2024" target="_blank">Ig Nobel Prize 2024 in Probability</a>  
+<a href="https://www.bayesianspectacles.org/coin-tossing-paper-wins-chinese-ignobel-pineapple-award/" target="_blank">Pinapple Science Award 2023 in Mathematics</a>
+<br>
+<br>
 
-- *Better source memory for remembered to-be-forgotten items  
-than for remembered to-be-remembered items.*  
+### Peer Reviewed
+<br>
+**Better source memory for remembered to-be-forgotten items  
+than for remembered to-be-remembered items.**  
 Journal of Experimental Psychology: Learning, Memory, and Cognition.  
 Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024).  
-> read <a href="https://osf.io/v7wp2" target="_blank">preformatted</a> or <a href="https://doi.org/10.1037/xlm0001362" target="_blank">at journal</a>
+<a href="https://osf.io/v7wp2" target="_blank">preformatted article</a>
+<br>
+<br>
 
-## Miscellaneous
-
-- *Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy.*  
+### Miscellaneous
+<br>
+**Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy.**  
 Ott, V. L. (2024).  
-> <a href="https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/" target="_blank">JASP blog</a>
+<a href="https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/" target="_blank">JASP blog</a>
