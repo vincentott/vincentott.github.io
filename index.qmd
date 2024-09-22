@@ -23,7 +23,7 @@ about:
       target: "_blank"
 ---
 Hi, I am Vincent. 🙂  
-I like to model memory & to visualize data.  
+I model memory & visualize data.  
 
 📍 Amsterdam   
 
