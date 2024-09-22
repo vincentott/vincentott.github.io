@@ -5,10 +5,6 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - text: Scholar
-      icon: google
-      href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
-      target: "_blank"
     - text: OSF
       icon: unlock-fill
       href: https://osf.io/6qmdv/
@@ -20,6 +16,10 @@ about:
     - text: Github
       icon: github
       href: https://github.com/vincentott
+      target: "_blank"
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
       target: "_blank"
 ---
 Hi, I am Vincent. 🙂  
