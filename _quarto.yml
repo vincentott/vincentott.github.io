@@ -21,12 +21,12 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: flatly
     css: styles.css
     include-in-header:
       - text: |
           <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
     toc: true
-    fontcolor: "#27293B"
-    backgroundcolor: "#EDE8F5"
-    linkcolor: "#7091e6"
+    # fontcolor: "#27293B"
+    # backgroundcolor: "#EDE8F5"
+    # linkcolor: "#7091e6"
