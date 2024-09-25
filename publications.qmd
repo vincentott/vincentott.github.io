@@ -27,4 +27,4 @@ Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024)
 **Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy**  
 JASP Blog on jasp-stats.org  
 Ott, V. L. (2024)  
-<button type="button" class="btn btn-outline-success btn-sm" onclick="window.open('https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/', '_blank')">read</button>
+<button type="button" class="btn btn-outline-success btn-sm" onclick="window.open('https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/', '_blank')">Blog Post</button>
