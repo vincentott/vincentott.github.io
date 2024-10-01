@@ -7,9 +7,9 @@
 <br>
 **Fair coins tend to land on the same side they started: Evidence from 350,757 flips**  
 Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)  
-<button type="button" class="btn btn-outline-success btn-sm" onclick="window.open('https://improbable.com/ig/winners/#ig2024', '_blank')">Ig Nobel Prize</button>
-<button type="button" class="btn btn-outline-success btn-sm" onclick="window.open('https://www.bayesianspectacles.org/coin-tossing-paper-wins-chinese-ignobel-pineapple-award/', '_blank')">Pinapple Science Award</button>
-<button type="button" class="btn btn-outline-success btn-sm" onclick="window.open('https://arxiv.org/abs/2310.04153', '_blank')">Preprint</button>
+[Ig Nobel Prize](https://improbable.com/ig/winners/#ig2024){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+[Pinapple Science Award](https://www.bayesianspectacles.org/coin-tossing-paper-wins-chinese-ignobel-pineapple-award/){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+[Preprint](https://arxiv.org/abs/2310.04153){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
 <br>
 
 ### Peer Reviewed
@@ -18,8 +18,8 @@ Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (202
 than for remembered to-be-remembered items**  
 Journal of Experimental Psychology: Learning, Memory, and Cognition  
 Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024)  
-<button type="button" class="btn btn-outline-success btn-sm" onclick="window.open('https://osf.io/v7wp2', '_blank')">Article</button>
-<button type="button" class="btn btn-outline-success btn-sm" onclick="window.open('https://osf.io/mg8ed/', '_blank')">OSF Repo</button>
+[Article](https://osf.io/v7wp2){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
+[OSF Repo](https://osf.io/mg8ed/){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
 <br>
 
 ### Miscellaneous
@@ -27,4 +27,4 @@ Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024)
 **Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy**  
 JASP Blog on jasp-stats.org  
 Ott, V. L. (2024)  
-<button type="button" class="btn btn-outline-success btn-sm" onclick="window.open('https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/', '_blank')">Blog Post</button>
+[Blog Post](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){.btn .btn-outline-primary .btn-sm role="button" target="_blank"}
