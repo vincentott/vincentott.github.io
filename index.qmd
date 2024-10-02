@@ -1,9 +1,9 @@
 ---
 about:
-  template: trestles
+  template: jolla
   image: pictures/ottSocialMedia1.jpg
   image-shape: rounded
-  image-width: 21em
+  image-width: 15em
   links:
     - text: OSF
       icon: unlock-fill
@@ -22,14 +22,9 @@ about:
       href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
       target: "_blank"
 ---
-<br>
-<br>
-<br>
-<br>
 Hi, I am Vincent. 🙂  
-  
 I model memory & develop stats software.  
+
 📍 Amsterdam   
 
-Browse my publications [here](publications.qmd) &  
-learn about raincloud plots [here](raincloudplots.qmd).
+Browse my publications [here](publications.qmd) & learn about raincloud plots [here](raincloudplots.qmd).
