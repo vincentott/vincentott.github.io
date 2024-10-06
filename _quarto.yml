@@ -6,7 +6,7 @@ website:
   title: "Vincent L. Ott"
   search: false
   navbar:
-    background: primary
+    background: info
     left:
       - href: index.qmd
         text: about
@@ -15,7 +15,7 @@ website:
       - href: raincloudplots.qmd
         text: raincloud plots
       - href: game.qmd
-        text: "🧪🕹"
+        text: "🕹"
     right: 
       - href: siteDetails.qmd
         text: "site details"
@@ -28,6 +28,6 @@ format:
       - text: |
           <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
     toc: true
+    # linkcolor: "#EDE8F5"
     # fontcolor: "#27293B"
     # backgroundcolor: "#EDE8F5"
-    # linkcolor: "#7091e6"
