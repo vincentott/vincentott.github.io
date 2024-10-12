@@ -25,6 +25,6 @@ about:
 Hi, I'm Vincent. 🙂  
 I model memory & develop stats software.  
 
-📍 Amsterdam   
+📍Amsterdam   
 
 Browse my publications [here](publications.qmd) & learn about raincloud plots [here](raincloudplots.qmd).
