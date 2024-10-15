@@ -8,18 +8,18 @@ website:
   navbar:
     background: primary
     left:
-      - href: pages/index.qmd
+      - href: index.qmd
         text: about
-      - href: pages/publications.qmd
+      - href: publications.qmd
         text: publications
-      - href: pages/raincloudplots.qmd
+      - href: raincloudplots.qmd
         text: raincloud plots
-      - href: pages/visualizations.qmd
+      - href: visualizations.qmd
         text: visualizations
-      - href: pages/game.qmd
+      - href: game.qmd
         text: "🕹"
     right: 
-      - href: pages/siteDetails.qmd
+      - href: siteDetails.qmd
         text: "site details"
 
 format:
