@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "Hi, I’m Vincent. 🙂\nI model memory & develop stats software.\n📍Amsterdam\nBrowse my publications here & learn about raincloud plots here."
+    "text": "Hi, I’m Vincent. 🙂\nI model memory & develop stats software.\n📍Amsterdam\nBrowse my publications, learn about raincloud plots, or view my visualizations"
   },
   {
     "objectID": "about.html",
@@ -82,5 +82,47 @@
     "title": "Vincent L. Ott",
     "section": "",
     "text": "* = equal contribution\n\n\n Fair coins tend to land on the same side they started: Evidence from 350,757 flips\nBartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)\nIg Nobel Prize Pinapple Science Award Preprint \n\n\n\n Better source memory for remembered to-be-forgotten items\nthan for remembered to-be-remembered items\nJournal of Experimental Psychology: Learning, Memory, and Cognition\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024)\nArticle OSF Repo \n\n\n\n Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy\nJASP Blog on jasp-stats.org\nOtt, V. L. (2024)\nBlog Post"
+  },
+  {
+    "objectID": "pages/index.html",
+    "href": "pages/index.html",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "Hi, I’m Vincent. 🙂\nI model memory & develop stats software.\n📍Amsterdam\nBrowse my publications.\nRead about raincloud plots.\nView some visualizations."
+  },
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "* = equal contribution  \n\nPreprints\n Fair coins tend to land on the same side they started: Evidence from 350,757 flips\nBartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)\nIg Nobel Prize Pinapple Science Award Preprint \n\n\nPeer Reviewed\n Better source memory for remembered to-be-forgotten items\nthan for remembered to-be-remembered items\nJournal of Experimental Psychology: Learning, Memory, and Cognition\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024)\nArticle OSF Repo \n\n\nMiscellaneous\n Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy\nJASP Blog on jasp-stats.org\nOtt, V. L. (2024)\nBlog Post"
+  },
+  {
+    "objectID": "pages/game.html",
+    "href": "pages/game.html",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "Play a simulation game that I programmed here."
+  },
+  {
+    "objectID": "pages/raincloudplots.html",
+    "href": "pages/raincloudplots.html",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "If you want to draw meaningful conclusions from data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data.\nFor example, to see how penguins´ body mass and flipper length are distributed:"
+  },
+  {
+    "objectID": "pages/siteDetails.html",
+    "href": "pages/siteDetails.html",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "The following helped me create this site:\n\nMatt Dray’s personal website source\nJoshua P. French’s youtube tutorial\nPoppins Google font\nChatGPT\n\n\nThe source for this very website is here."
+  },
+  {
+    "objectID": "pages/visualizations.html",
+    "href": "pages/visualizations.html",
+    "title": "Vincent L. Ott",
+    "section": "",
+    "text": "Rubik’s Cube Records\n\nData & Plot Code"
   }
 ]

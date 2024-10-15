@@ -6,8 +6,8 @@ The following helped me create this site:
 
 * <a href="https://fonts.google.com/specimen/Poppins" target="_blank">Poppins</a> Google font
 
-<!--
-* <a href="https://www.color-hex.com/color-palette/1044630" target="_blank">Metallic Chic</a> color palette
--->
-
 * <a href="https://chatgpt.com" target="_blank">ChatGPT</a>
+
+<br>
+
+The source for this very website is <a href="https://github.com/vincentott/vincentott.github.io" target="_blank">here</a>.

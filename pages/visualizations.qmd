@@ -1,0 +1,5 @@
+### Rubik's Cube Records
+
+![](../pictures/visualizations/rubiksTimes.png){width=650}
+
+[Data & Plot Code](https://github.com/vincentott/visualizations/tree/main/rubiksTimes){.btn .btn-outline-light .btn-sm role="button" target="_blank"}

@@ -8,4 +8,4 @@ In <a href="https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly
 how you can easily use them to visualize your own data.  
 For example, to see how penguins´ body mass and flipper length are distributed:
 
-![](pictures/raincloud.png)
+![](../pictures/raincloud.png)

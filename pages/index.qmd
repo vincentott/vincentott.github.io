@@ -1,7 +1,7 @@
 ---
 about:
   template: jolla
-  image: pictures/ottSocialMedia1.jpg
+  image: ../pictures/ottSocialMedia1.jpg
   image-shape: rounded
   image-width: 15em
   links:
@@ -27,4 +27,6 @@ I model memory & develop stats software.
 
 📍Amsterdam   
 
-Browse my publications [here](publications.qmd) & learn about raincloud plots [here](raincloudplots.qmd).
+Browse my [publications](publications.qmd).  
+Read about [raincloud plots](raincloudplots.qmd).  
+View some [visualizations](visualizations.qmd).
