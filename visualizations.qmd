@@ -16,12 +16,12 @@ A spacewalk is "any activity in outer space outside a spacecraft" ([Wikipedia](h
 
 <br>
 
-Based on the [paper by Corlett et al. (2020)](https://www.sciencedirect.com/science/article/abs/pii/S2214552420300444). Lower plot [done in a few clicks](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}.  
+Based on the [paper by Corlett et al. (2020)](https://www.sciencedirect.com/science/article/abs/pii/S2214552420300444). Bottom plot [done in a few clicks](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}.  
 Technically, both space and moon walk times are shown (extravehicular activity).
 
 [Data & Plot Code](https://github.com/vincentott/visualizations/tree/main/spacewalking){.btn .btn-outline-light .btn-sm role="button" target="_blank"}
 
-
+<br>
 
 ### Rubik's Cube Records
 
