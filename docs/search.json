@@ -18,14 +18,14 @@
     "href": "publications.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "* = equal contribution  \n\nPreprints\n Fair coins tend to land on the same side they started: Evidence from 350,757 flips\nBartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)\nIg Nobel Prize Pinapple Science Award Preprint\n\n\n\nPeer Reviewed\n Better source memory for remembered to-be-forgotten items\nthan for remembered to-be-remembered items\nJournal of Experimental Psychology: Learning, Memory, and Cognition\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024)\nArticle OSF Repo\n\n\n\nMiscellaneous\n Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy\nJASP Blog on jasp-stats.org\nOtt, V. L. (2024)\nBlog Post"
+    "text": "* = equal contribution  \n\nPreprints\nFair coins tend to land on the same side they started: Evidence from 350,757 flips\nBartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)\nIg Nobel Prize Pinapple Science Award Preprint OSF Repo\n\n\n\nPeer Reviewed\nBetter source memory for remembered to-be-forgotten items\nthan for remembered to-be-remembered items\nJournal of Experimental Psychology: Learning, Memory, and Cognition\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024)\nArticle OSF Repo\n\n\n\nMiscellaneous\nRaincloud Plots in JASP: Incredibly Useful, Surprisingly Easy\nJASP Blog on jasp-stats.org\nOtt, V. L. (2024)\nBlog Post"
   },
   {
     "objectID": "siteDetails.html",
     "href": "siteDetails.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "The following helped me create this site:\n\nMatt Dray’s personal website source\nJoshua P. French’s youtube tutorial\nPoppins Google font\nChatGPT\n\n\nThe source for this very website is here."
+    "text": "The following helped me create this site:\n\nMatt Dray’s personal website source\nJoshua P. French’s youtube tutorial\nPoppins Google font\nChatGPT\n\n\nThe source of this website is here."
   },
   {
     "objectID": "livelycells.html",
@@ -46,7 +46,7 @@
     "href": "raincloudplots.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "If you want to draw meaningful conclusions from data,\nyou should visualize it as it might otherwise mislead you.\nFor many scenarios in empirical sciences,\nso called raincloud plots are incredibly useful for this.\nIn this blog post I explain how raincloud plots work and\nhow you can easily use them to visualize your own data.\nFor example, to see how penguins´ body mass and flipper length are distributed:"
+    "text": "To draw meaningful conclusions from data, you have to visualize it.\nRaincloud plots are incredibly useful for this.\nAnd the best thing is: You can make your own in a few clicks.\n\n\nRaincloud Plot of Bodymass and Flipper Length in Penguins"
   },
   {
     "objectID": "publications.html#preprints",

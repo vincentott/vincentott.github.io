@@ -10,4 +10,4 @@ The following helped me create this site:
 
 <br>
 
-The source for this very website is <a href="https://github.com/vincentott/vincentott.github.io" target="_blank">here</a>.
+The source of this website is <a href="https://github.com/vincentott/vincentott.github.io" target="_blank">here</a>.

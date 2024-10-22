@@ -1,11 +1,10 @@
-If you want to draw meaningful conclusions from data,  
-you should visualize it as it might otherwise mislead you.  
+To draw meaningful conclusions from data, you have to visualize it.  
+Raincloud plots are incredibly useful for this.  
   
-For many scenarios in empirical sciences,  
-so called raincloud plots are incredibly useful for this.  
-  
-In <a href="https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/" target="_blank">this blog post</a> I explain how raincloud plots work and  
-how you can easily use them to visualize your own data.  
-For example, to see how penguins´ body mass and flipper length are distributed:
+And the best thing is: You can [make your own in a few clicks](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}.
 
+<br>
+  
 ![](./pictures/raincloud.png)
+  
+Raincloud Plot of Bodymass and Flipper Length in Penguins
