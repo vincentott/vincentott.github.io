@@ -4,7 +4,7 @@ The following helped me create this site:
 
 * <a href="https://jfrench.github.io/" target="_blank">Joshua P. French</a>'s <a href="https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&index=1" target="_blank">youtube tutorial</a>
 
-* <a href="https://fonts.google.com/specimen/Poppins" target="_blank">Poppins</a> Google font
+* <a href="https://fonts.google.com/specimen/Roboto" target="_blank">Roboto</a> Google font
 
 * <a href="https://chatgpt.com" target="_blank">ChatGPT</a>
 
