@@ -1,4 +1,4 @@
-To draw meaningful conclusions from data, you have to visualize it.  
+To draw meaningful conclusions from data, you must visualize it.  
 Raincloud plots are incredibly useful for this.  
   
 And the best thing is: You can [make your own in a few clicks](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}.

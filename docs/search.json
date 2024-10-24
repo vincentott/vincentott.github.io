@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "Hi, I’m Vincent. 🙂\nI model memory & develop stats software.\n📍Amsterdam\nBrowse my publications.\nRead about raincloud plots.\nView some visualizations."
+    "text": "Hi, I’m Vincent. I model memory & develop stats software.\n📍Amsterdam\nBrowse my publications or make raincloud plots in mere clicks."
   },
   {
     "objectID": "about.html",
@@ -46,7 +46,7 @@
     "href": "raincloudplots.html",
     "title": "Vincent L. Ott",
     "section": "",
-    "text": "To draw meaningful conclusions from data, you have to visualize it.\nRaincloud plots are incredibly useful for this.\nAnd the best thing is: You can make your own in a few clicks.\n\n\nRaincloud Plot of Bodymass and Flipper Length in Penguins"
+    "text": "To draw meaningful conclusions from data, you must visualize it.\nRaincloud plots are incredibly useful for this.\nAnd the best thing is: You can make your own in a few clicks.\n\n\nRaincloud Plot of Bodymass and Flipper Length in Penguins"
   },
   {
     "objectID": "publications.html#preprints",

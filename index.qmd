@@ -1,7 +1,7 @@
 ---
 about:
   template: jolla
-  image: ./pictures/ottSocialMedia1.jpg
+  image: ./pictures/ottSocialMedia2.jpg
   image-shape: rounded
   image-width: 15em
   links:
@@ -22,11 +22,7 @@ about:
       href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
       target: "_blank"
 ---
-Hi, I'm Vincent. 🙂  
-I model memory & develop stats software.  
-
+Hi, I'm Vincent. I model memory & develop stats software.  
 📍Amsterdam   
 
-Browse my [publications](publications.qmd).  
-Read about [raincloud plots](raincloudplots.qmd).  
-View some [visualizations](visualizations.qmd).
+Browse my [publications](publications.qmd) or make [raincloud plots in mere clicks](raincloudplots.qmd).
