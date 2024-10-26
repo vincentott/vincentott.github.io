@@ -9,7 +9,7 @@
 Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)  
 [Ig Nobel Prize](https://improbable.com/ig/winners/#ig2024){.badge .bg-warning target="_blank"}
 [Pinapple Science Award](https://www.bayesianspectacles.org/coin-tossing-paper-wins-chinese-ignobel-pineapple-award/){.badge .bg-warning target="_blank"}
-[Preprint](https://arxiv.org/abs/2310.04153){.badge .bg-info target="_blank"}
+[PDF](https://arxiv.org/pdf/2310.04153){.badge .bg-info target="_blank"}
 [OSF Repo](https://osf.io/pxu6r/){.badge .bg-info target="_blank"}
 
 <br>
@@ -20,7 +20,7 @@ Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (202
 than for remembered to-be-remembered items**  
 Journal of Experimental Psychology: Learning, Memory, and Cognition  
 Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024)  
-[Article](https://osf.io/v7wp2){.badge .bg-info target="_blank"}
+[PDF](https://osf.io/v7wp2){.badge .bg-info target="_blank"}
 [OSF Repo](https://osf.io/mg8ed/){.badge .bg-info target="_blank"}
 
 <br>
