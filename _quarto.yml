@@ -19,7 +19,7 @@ website:
       - href: game.qmd
         text: "🕹"
     right: 
-      - href: siteetails.qmd
+      - href: sitedetails.qmd
         text: "site details"
 
 format:
