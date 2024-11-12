@@ -18,9 +18,9 @@ website:
         text: visualizations
       - href: game.qmd
         text: "🕹"
-    # right: 
-    #   - href: sitedetails.qmd
-    #     text: "site details"
+    right:
+      - href: sitedetails.qmd
+        text: "site details"
 
 format:
   html:
