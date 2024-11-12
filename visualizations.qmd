@@ -1,6 +1,6 @@
 
 
-### Astronaut Spacewalking
+### astronaut spacewalking
 
 A spacewalk is "any activity in outer space outside a spacecraft" ([Wikipedia](https://en.wikipedia.org/wiki/Extravehicular_activity#)).
 
@@ -23,7 +23,7 @@ Technically, both space and moon walk times are shown (extravehicular activity).
 
 <br>
 
-### Rubik's Cube Records
+### rubik's cube records
 
 <div style="text-align: center;">
   ![](./pictures/visualizations/rubiksTimes.png){width=600}

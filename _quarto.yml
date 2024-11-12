@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Vincent L. Ott"
+  title: "vincent l. ott"
   search: false
   navbar:
-    background: primary
+    background: secondary
     left:
       - href: index.qmd
         text: about
@@ -19,7 +19,7 @@ website:
       - href: game.qmd
         text: "🕹"
     right: 
-      - href: siteDetails.qmd
+      - href: sitedetails.qmd
         text: "site details"
 
 format:

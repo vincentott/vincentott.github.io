@@ -5,24 +5,24 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - text: OSF
+    - text: osf
       icon: unlock-fill
       href: https://osf.io/6qmdv/
       target: "_blank"
-    - text: Bluesky
+    - text: bluesky
       icon: chat-left-text
       href: https://bsky.app/profile/vlott.bsky.social
       target: "_blank"
-    - text: Github
+    - text: github
       icon: github
       href: https://github.com/vincentott
       target: "_blank"
-    - text: Scholar
+    - text: scholar
       icon: google
       href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
       target: "_blank"
 ---
-Hi, I'm Vincent. I model memory & develop stats software.  
-📍Amsterdam   
+hi, i'm vincent. i model memory & develop stats software.  
+✧ amsterdam   
 
-Browse my [publications](publications.qmd) or make [raincloud plots in mere clicks](raincloudplots.qmd).
+browse my [publications](publications.qmd) or make [raincloud plots in mere clicks](raincloudplots.qmd).

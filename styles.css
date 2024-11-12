@@ -14,3 +14,12 @@ p {
 a {
     text-decoration: none;  /* Remove underline from links  */
 }
+
+/* Remove the background or border around active navbar item */
+.navbar .nav-link.active,
+.navbar .nav-item.active {
+    background-color: transparent !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
