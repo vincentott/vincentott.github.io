@@ -25,4 +25,4 @@ about:
 hi, i'm vincent. i model memory & develop stats software.  
 ✧ amsterdam   
 
-browse my [publications](publications.qmd) or make [raincloud plots in mere clicks](raincloudplots.qmd).
+browse my [publications](publications.qmd) or improve your data viz [in mere clicks](raincloudplots.qmd).

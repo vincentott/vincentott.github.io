@@ -9,19 +9,23 @@
 Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)  
 [Ig Nobel Prize](https://improbable.com/ig/winners/#ig2024){.badge .bg-warning target="_blank"}
 [Pinapple Science Award](https://www.bayesianspectacles.org/coin-tossing-paper-wins-chinese-ignobel-pineapple-award/){.badge .bg-warning target="_blank"}
-[PDF](https://arxiv.org/pdf/2310.04153){.badge .bg-success target="_blank"}
-[OSF Repo](https://osf.io/pxu6r/){.badge .bg-success target="_blank"}
+<!-- [PDF](https://arxiv.org/pdf/2310.04153){.badge .bg-success target="_blank"} -->
+<!-- [OSF Repo](https://osf.io/pxu6r/){.badge .bg-success target="_blank"} -->
+[pdf](https://arxiv.org/pdf/2310.04153){target="_blank"}
+[osf](https://osf.io/pxu6r/){target="_blank"}
 
 <br>
 
 ### peer reviewed
 
-**Better source memory for remembered to-be-forgotten items  
+**Better source memory for remembered to-be-forgotten items 
 than for remembered to-be-remembered items**  
 Journal of Experimental Psychology: Learning, Memory, and Cognition  
 Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024)  
-[PDF](https://osf.io/v7wp2){.badge .bg-success target="_blank"}
-[OSF Repo](https://osf.io/mg8ed/){.badge .bg-success target="_blank"}
+<!-- [PDF](https://osf.io/v7wp2){.badge .bg-success target="_blank"} -->
+<!-- [OSF Repo](https://osf.io/mg8ed/){.badge .bg-success target="_blank"} -->
+[pdf](https://osf.io/v7wp2){target="_blank"}
+[osf](https://osf.io/mg8ed/){target="_blank"}
 
 <br>
 
@@ -30,9 +34,11 @@ Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024)
 **Better & Easier Data Viz with Raincloud Plots in JASP (In-Depth Guide)**  
 Youtube Tutorial  
 Ott, V. L. (2024)  
-[Watch](https://www.youtube.com/watch?v=AAdXUAl_w6E){.badge .bg-success target="_blank"}
+<!-- [Watch](https://www.youtube.com/watch?v=AAdXUAl_w6E){.badge .bg-success target="_blank"} -->
+[watch](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"}
 
 **Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy**  
 JASP Blog on jasp-stats.org  
 Ott, V. L. (2024)  
-[Read](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){.badge .bg-success target="_blank"}
+<!-- [Read](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){.badge .bg-success target="_blank"} -->
+[read](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}
