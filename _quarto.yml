@@ -15,7 +15,7 @@ website:
         text: publications
         
       - href: raincloudplots.qmd
-        text: rainclouds
+        text: clouds
         
       - href: visualizations.qmd
         text: visualizations
