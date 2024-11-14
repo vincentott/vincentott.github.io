@@ -10,17 +10,21 @@ website:
     left:
       - href: index.qmd
         text: about
+        
       - href: publications.qmd
         text: publications
+        
       - href: raincloudplots.qmd
         text: rainclouds
+        
       - href: visualizations.qmd
         text: visualizations
+        
       - href: game.qmd
-        text: "🕹"
+        text: 🕹
     right:
       - href: sitedetails.qmd
-        text: "site details"
+        text: site details
 
 format:
   html:
