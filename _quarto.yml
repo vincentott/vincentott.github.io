@@ -21,7 +21,7 @@ website:
         text: visualizations
         
       - href: game.qmd
-        text: 🕹
+        text: automaton
     right:
       - href: sitedetails.qmd
         text: site details

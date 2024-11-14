@@ -1,0 +1,25 @@
+/* css styles */
+
+/* Apply the Poppins font to all elements */
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+p {
+    line-height: 1.6; /* Line Spacing */
+}
+
+
+/* Links  */
+a {
+    text-decoration: none;  /* Remove underline from links  */
+}
+
+/* Remove the background or border around active navbar item */
+.navbar .nav-link.active,
+.navbar .nav-item.active {
+    background-color: transparent !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
