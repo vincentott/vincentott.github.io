@@ -13,9 +13,9 @@ website:
       - href: publications.qmd
         text: publications
       - href: raincloudplots.qmd
-        text: raincloud plots
+        text: clouds
       - href: visualizations.qmd
-        text: visualizations
+        text: viz
       - href: game.qmd
         text: "🕹"
     right:
