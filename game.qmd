@@ -1,3 +1,3 @@
-Play around with an automaton and simulate cell behavior <a href="https://vincentott.shinyapps.io/livelycells/" target="_blank">here</a>.
+Play around with an automaton: simulate cell behavior <a href="https://vincentott.shinyapps.io/livelycells/" target="_blank">here</a>.
 
 ![](./pictures/livelycells.png)
