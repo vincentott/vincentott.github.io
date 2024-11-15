@@ -15,13 +15,13 @@ website:
         text: publications
         
       - href: raincloudplots.qmd
-        text: clouds
+        text: raincloud plots
         
       - href: visualizations.qmd
         text: visualizations
         
       - href: game.qmd
-        text: automaton
+        text: cell behavior
     right:
       - href: sitedetails.qmd
         text: site details
