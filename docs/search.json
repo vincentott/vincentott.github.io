@@ -11,7 +11,7 @@
     "href": "publications.html",
     "title": "vincent l. ott",
     "section": "",
-    "text": "* = equal contribution  \n\nPreprints\nFair coins tend to land on the same side they started: Evidence from 350,757 flips\nBartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)\nIg Nobel Prize Pinapple Science Award pdf osf\n\n\n\nPeer reviewed\nBetter source memory for remembered to-be-forgotten items than for remembered to-be-remembered items\nJournal of Experimental Psychology: Learning, Memory, and Cognition\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024)\nAPA Editor´s Choice pdf osf\n\n\n\nMiscellaneous\nBetter & Easier Data Viz with Raincloud Plots in JASP (In-Depth Guide)\nYoutube Tutorial\nOtt, V. L. (2024)\nwatch\nRaincloud Plots in JASP: Incredibly Useful, Surprisingly Easy\nJASP Blog on jasp-stats.org\nOtt, V. L. (2024)\nread"
+    "text": "* = equal contribution  \n\nPreprints\nFair coins tend to land on the same side they started: Evidence from 350,757 flips\nBartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)\nIg Nobel Prize Pinapple Science Award pdf osf\n\n\n\nPeer reviewed\nBetter source memory for remembered to-be-forgotten items than for remembered to-be-remembered items\nJournal of Experimental Psychology: Learning, Memory, and Cognition\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024)\nAPA Editor´s Choice pdf osf\n\n\n\nMiscellaneous\nBetter & Easier Data Viz with Raincloud Plots in JASP (In-Depth Guide)\nYouTube Tutorial\nOtt, V. L. (2024)\nwatch\nRaincloud Plots in JASP: Incredibly Useful, Surprisingly Easy\nJASP Blog on jasp-stats.org\nOtt, V. L. (2024)\nread"
   },
   {
     "objectID": "game.html",
@@ -25,7 +25,7 @@
     "href": "raincloudplots.html",
     "title": "vincent l. ott",
     "section": "",
-    "text": "To draw meaningful conclusions from data, you must visualize it.\nRaincloud plots are incredibly useful for this.\nAnd the best thing is: You can make your own in a few clicks.\n\n\nRaincloud Plot of Bodymass and Flipper Length in Penguins"
+    "text": "JASP is a free & open-source statistics program with an easy-to-use graphical user interface.\nWith it, you can easily create incredibly useful raincloud plots:\n\nThe QR code links to this in-depth YouTube tutorial. You can also read this brief introduction."
   },
   {
     "objectID": "visualizations.html",

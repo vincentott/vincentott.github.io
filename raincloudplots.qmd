@@ -1,10 +1,15 @@
-To draw meaningful conclusions from data, you must visualize it.  
-Raincloud plots are incredibly useful for this.  
-  
-And the best thing is: You can [make your own in a few clicks](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}.
+---
+page-layout: full
+---
 
-<br>
+<div style="text-align: center;">
+
+[JASP](https://jasp-stats.org/){target="_blank"} is a free & open-source statistics program with an easy-to-use graphical user interface.  
+With it, you can easily create incredibly useful raincloud plots:
+
+<img src="./pictures/raincloudPoster.jpeg" width="70%" />
   
-![](./pictures/raincloud.png)
-  
-Raincloud Plot of Bodymass and Flipper Length in Penguins
+
+The QR code links to this [in-depth YouTube tutorial](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"}.
+You can also read this [brief introduction](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}.
+</div>

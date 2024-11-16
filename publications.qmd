@@ -29,7 +29,7 @@ Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024)
 ### Miscellaneous
 
 **Better & Easier Data Viz with Raincloud Plots in JASP (In-Depth Guide)**  
-Youtube Tutorial  
+YouTube Tutorial  
 Ott, V. L. (2024)  
 [watch](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"}
 
