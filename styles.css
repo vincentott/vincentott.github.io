@@ -1,14 +1,12 @@
-/* css styles */
 
-/* Apply the Poppins font to all elements */
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* General Settings */
+
 * {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;  /* Apply the Inter font to all elements */
 }
-
-p {
-    line-height: 1.6; /* Line Spacing */
-}
-
 
 /* Links  */
 a {
@@ -22,4 +20,50 @@ a {
     border: none !important;
     outline: none !important;
     box-shadow: none !important;
+}
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* Decrease margin above portrait picture */
+
+div.quarto-about-jolla {
+  margin-top: 5%;
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* Font Size */
+
+p {
+    line-height: 1.6; /* Line Spacing */
+    font-size: 115%;  /* Increase font size of paragraphs */
+}
+
+/* Target the about section only */
+.about a, .about .links a {
+  font-size: 115%;  /* Increase both icon and text size */
+}
+
+/* Only target icons and text inside the about section */
+.about-link-text {
+  font-size: 115%;  /* Increase both icon and text size by 20% */
+}
+.bi {
+  font-size: 120%; /* Increase icon size */
+}
+
+/* Increase font size of navbar */
+.navbar, .navbar a {
+  font-size: 105%;
+}
+
+/* Increase font size of sidebar */
+.sidebar, .sidebar a, .nav, .nav a, .menu, .menu a {
+  font-size: 115%; /* Increase font size */
+}
+
+/* Increase font size of buttons */
+button, .btn {
+  font-size: 90%;
 }
