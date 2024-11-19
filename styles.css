@@ -37,28 +37,28 @@ div.quarto-about-jolla {
 
 p {
     line-height: 1.6; /* Line Spacing */
-    font-size: 105%;  /* Increase font size of paragraphs */
+    font-size: 105%;
 }
 
 /* Only target icons and text inside the about section */
 .about-link-text {
-  font-size: 105%;  /* Increase both icon and text size by 20% */
+  font-size: 105%;  /* text size */
 }
 .bi {
-  font-size: 110%; /* Increase icon size */
+  font-size: 110%; /* icon size */
 }
 
-/* Increase font size of navbar */
+/* Font size of navbar */
 .navbar, .navbar a {
   font-size: 101%;
 }
 
-/* Increase font size of sidebar */
+/* Font size of sidebar */
 .sidebar, .sidebar a, .nav, .nav a, .menu, .menu a {
   font-size: 102%; /* Increase font size */
 }
 
-/* Increase font size of buttons */
+/* Font size of buttons */
 button, .btn {
   font-size: 80%;
 }
