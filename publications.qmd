@@ -30,9 +30,9 @@ Journal of Experimental Psychology: Learning, Memory, and Cognition
 
 ### Miscellaneous
 
-#### Better & Easier Data Viz with Raincloud Plots in JASP (In-Depth Guide)  
+#### Better & easier data viz with raincloud plots in JASP (in-depth guide)  
 [watch](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"} | YouTube Tutorial by V. L. Ott (2024)
 
-#### Raincloud Plots in JASP: Incredibly Useful, Surprisingly Easy  
+#### Raincloud plots in JASP: Incredibly useful, surprisingly easy  
 [read](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"} |
 Blog post on jasp-stats.org by V. L. Ott (2024)
