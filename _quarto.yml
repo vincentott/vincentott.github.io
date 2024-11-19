@@ -16,12 +16,14 @@ website:
         
       - href: raincloudplots.qmd
         text: raincloud plots
-        
-      - href: visualizations.qmd
-        text: visualizations
-        
-      - href: game.qmd
-        text: cell behavior
+      
+      - text: side projects
+        menu: 
+          - href: game.qmd
+            text: cell behavior
+          - href: visualizations.qmd
+            text: visualizations
+            
     right:
       - href: sitedetails.qmd
         text: site details
