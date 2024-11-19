@@ -1,0 +1,64 @@
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* General Settings */
+
+* {
+  font-family: 'Inter', sans-serif;  /* Apply the Inter font to all elements */
+}
+
+/* Links  */
+a {
+    text-decoration: none;  /* Remove underline from links  */
+}
+
+/* Remove the background or border around active navbar item */
+.navbar .nav-link.active,
+.navbar .nav-item.active {
+    background-color: transparent !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* Decrease margin above portrait picture */
+
+div.quarto-about-jolla {
+  margin-top: 5%;
+}
+
+
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* Font Size */
+
+p {
+    line-height: 1.6; /* Line Spacing */
+    font-size: 105%;  /* Increase font size of paragraphs */
+}
+
+/* Only target icons and text inside the about section */
+.about-link-text {
+  font-size: 105%;  /* Increase both icon and text size by 20% */
+}
+.bi {
+  font-size: 110%; /* Increase icon size */
+}
+
+/* Increase font size of navbar */
+.navbar, .navbar a {
+  font-size: 101%;
+}
+
+/* Increase font size of sidebar */
+.sidebar, .sidebar a, .nav, .nav a, .menu, .menu a {
+  font-size: 102%; /* Increase font size */
+}
+
+/* Increase font size of buttons */
+button, .btn {
+  font-size: 80%;
+}
