@@ -4,12 +4,13 @@ page-layout: full
 
 <div style="text-align: center;">
 
-<img src="./pictures/raincloudPoster.jpeg" width="70%" />
-  
+<img src="./pictures/raincloudPoster.jpeg" width="66%" />
+
+[Tutorial QR-link](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"} - 
+[Brief blogpost](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}
+
+
 
 [JASP](https://jasp-stats.org/){target="_blank"} is a free statistics program with convenient graphical user interface.  
-With it, you can easily create incredibly useful raincloud plots:
-<br>
-QR code: [in-depth YouTube tutorial](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"}.
-Read a [brief blogpost](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}.
+With it, you can easily create incredibly useful raincloud plots.
 </div>
