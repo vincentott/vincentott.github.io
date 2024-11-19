@@ -6,8 +6,8 @@ page-layout: full
 
 <img src="./pictures/raincloudPoster.jpeg" width="66%" />
 
-[Tutorial QR-link](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"} - 
-[Brief blogpost](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}
+[tutorial](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"} | 
+[brief blogpost](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}
 
 
 
