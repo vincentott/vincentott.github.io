@@ -2,6 +2,8 @@
 page-layout: full
 ---
 
-Play around and simulate cell behavior <a href="https://vincentott.shinyapps.io/livelycells/" target="_blank">here</a>.
+[Click here to simulate cell behavior in a web app.](https://vincentott.shinyapps.io/livelycells/){target="_blank"}
 
+
+#### Preview:
 ![](./pictures/livelycells.png)

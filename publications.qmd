@@ -2,18 +2,23 @@
 page-layout: full
 sidebar: false
 ---
-\* = equal contribution
-<br>
-<br>
 
-### Preprints
+### Preprinted
+
+#### Informative data visualization with raincloud plots in JASP
+[pdf](https://doi.org/10.31219/osf.io/gv3ph){target="_blank"} | 
+[data & code](https://osf.io/mh2ka/){target="_blank"}  
+Ott, V. L., van den Bergh, D., Boutin, B., van Doorn, J., Bartoš, F., Judd, N., van Langen, J., Korthals, L., Kievit, R.,
+Groot., L, & Wagenmakers, E.-J. (2024).
+
+<br>
 
 #### Fair coins tend to land on the same side they started: Evidence from 350,757 flips
 [ig nobel prize](https://improbable.com/ig/winners/#ig2024){.text-success target="_blank"} | 
 [pineapple award](https://www.bayesianspectacles.org/coin-tossing-paper-wins-chinese-ignobel-pineapple-award/){.text-success target="_blank"} | 
 [pdf](https://arxiv.org/pdf/2310.04153){target="_blank"} | 
 [data & code](https://osf.io/pxu6r/){target="_blank"}  
-Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (2023)
+Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E.-J. (2023)
 
 <br>
 
@@ -23,7 +28,7 @@ Bartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E. J. (202
 [editor´s choice](https://www.apa.org/news/editors-choice){.text-success target="_blank"} | 
 [pdf](https://osf.io/v7wp2){target="_blank"} | 
 [data & code](https://osf.io/mg8ed/){target="_blank"}  
-Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024)  
+Ott\*, V. L., Höhs\*, J. M., & Rummel, J. (2024) | \* equal contribution  
 Journal of Experimental Psychology: Learning, Memory, and Cognition
 
 <br>
@@ -32,6 +37,8 @@ Journal of Experimental Psychology: Learning, Memory, and Cognition
 
 #### Better & easier data viz with raincloud plots in JASP (in-depth guide)  
 [watch](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"} | YouTube Tutorial by V. L. Ott (2024)
+
+<br>
 
 #### Raincloud plots in JASP: Incredibly useful, surprisingly easy  
 [read](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"} |
