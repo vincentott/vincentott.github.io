@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "vincent l. ott",
+    "section": "",
+    "text": "hi, i’m vincent. i model cognition & develop stats software.\n✧ amsterdam\nbrowse my publications or improve your data viz in mere clicks."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "vincent l. ott",
+    "section": "",
+    "text": "Preprinted\n\nInformative data visualization with raincloud plots in JASP\npdf | data & code\nOtt, V. L., van den Bergh, D., Boutin, B., van Doorn, J., Bartoš, F., Judd, N., van Langen, J., Korthals, L., Kievit, R., Groot., L, & Wagenmakers, E.-J. (2024).\n\n\n\nFair coins tend to land on the same side they started: Evidence from 350,757 flips\nig nobel prize | pineapple award | pdf | data & code\nBartoš, F., 26 co-authors, Ott, V. L., 21 co-authors, & Wagenmakers, E.-J. (2023)\n\n\n\n\nPeer reviewed\n\nBetter source memory for remembered to-be-forgotten items than for remembered to-be-remembered items\neditor´s choice | pdf | data & code\nOtt*, V. L., Höhs*, J. M., & Rummel, J. (2024) | * equal contribution\nJournal of Experimental Psychology: Learning, Memory, and Cognition\n\n\n\n\nMiscellaneous\n\nBetter & easier data viz with raincloud plots in JASP (in-depth guide)\nwatch | YouTube Tutorial by V. L. Ott (2024)\n\n\n\nRaincloud plots in JASP: Incredibly useful, surprisingly easy\nread | Blog post on jasp-stats.org by V. L. Ott (2024)"
+  },
+  {
+    "objectID": "game.html",
+    "href": "game.html",
+    "title": "vincent l. ott",
+    "section": "",
+    "text": "Click here to simulate cell behavior in a web app.\n\nPreview:"
+  },
+  {
+    "objectID": "raincloudplots.html",
+    "href": "raincloudplots.html",
+    "title": "vincent l. ott",
+    "section": "",
+    "text": "tutorial | preprint | blogpost\nJASP is a free statistics program with convenient graphical user interface.\nWith it, you can easily create incredibly useful raincloud plots."
+  },
+  {
+    "objectID": "visualizations.html",
+    "href": "visualizations.html",
+    "title": "vincent l. ott",
+    "section": "",
+    "text": "astronaut spacewalking\nA spacewalk is “any activity in outer space outside a spacecraft” (Wikipedia).\n\n\n\n\n\n\n\n\nBased on the paper by Corlett et al. (2020). Bottom plot done in mere clicks.\nTechnically, both space and moon walk times are shown (extravehicular activity).\nData & Plot Code\n\n\n\nrubik’s cube records\n\n\n\nData & Plot Code"
+  },
+  {
+    "objectID": "sitedetails.html",
+    "href": "sitedetails.html",
+    "title": "vincent l. ott",
+    "section": "",
+    "text": "The following helped me create this site:\n\nMatt Dray’s personal website source\nJoshua P. French’s youtube tutorial\nInter Google font\nChatGPT\n\n\nThe source of this website is here."
+  }
+]
