@@ -22,7 +22,7 @@ about:
       href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
       target: "_blank"
 ---
-hi, i'm vincent. i model memory & develop stats software.  
+hi, i'm vincent. i model cognition & develop stats software.  
 ✧ amsterdam   
 
 browse my [publications](publications.qmd) or improve your data viz [in mere clicks](raincloudplots.qmd).
