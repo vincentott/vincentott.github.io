@@ -1,4 +1,6 @@
-
+---
+toc-title: sections
+---
 
 ### astronaut spacewalking
 
@@ -19,7 +21,7 @@ A spacewalk is "any activity in outer space outside a spacecraft" ([Wikipedia](h
 Based on the [paper by Corlett et al. (2020)](https://www.sciencedirect.com/science/article/abs/pii/S2214552420300444){target="_blank"}. Bottom plot [done in mere clicks](raincloudplots.qmd).  
 Technically, both space and moon walk times are shown (extravehicular activity).
 
-[Data & Plot Code](https://github.com/vincentott/visualizations/tree/main/spacewalking){.btn .btn-outline-light .btn-sm role="button" target="_blank"}
+[data & code](https://github.com/vincentott/visualizations/tree/main/spacewalking){.btn .btn-outline-light .btn-sm role="button" target="_blank"}
 
 <br>
 
@@ -29,4 +31,4 @@ Technically, both space and moon walk times are shown (extravehicular activity).
   ![](./pictures/visualizations/rubiksTimes.png){width=600}
 </div>
 
-[Data & Plot Code](https://github.com/vincentott/visualizations/tree/main/rubiksTimes){.btn .btn-outline-light .btn-sm role="button" target="_blank"}
+[data & code](https://github.com/vincentott/visualizations/tree/main/rubiksTimes){.btn .btn-outline-light .btn-sm role="button" target="_blank"}

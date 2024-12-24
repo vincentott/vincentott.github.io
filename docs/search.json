@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "vincent l. ott",
     "section": "",
-    "text": "Hi, I’m Vincent. I model cognition & develop stats software.\n✧ Amsterdam\nBrowse my publications or improve your data viz in mere clicks."
+    "text": "hi, i’m vincent. i model cognition & develop stats software.\n✧ amsterdam\nbrowse my publications or improve your data viz in mere clicks."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "vincent l. ott",
     "section": "",
-    "text": "Preprinted\n\nInformative data visualization with raincloud plots in JASP\nOtt, van den Bergh, Boutin, van Doorn, Bartoš, Judd, van Langen, Korthals, Kievit, Groot,\n& Wagenmakers (2024)\npdf | data & code\n\n\nFair coins tend to land on the same side they started: Evidence from 350,757 flips\nBartoš, Sarafoglou, Godmann, 24 co-authors, Ott, 21 co-authors, & Wagenmakers (2023)\nig nobel prize | pineapple award | pdf | data & code\n\n\n\nPeer reviewed\n\nBetter source memory for remembered to-be-forgotten items than for remembered to-be-remembered items\nOtt*, Höhs*, & Rummel (2024) | *equal contribution\nJournal of Experimental Psychology: Learning, Memory, and Cognition\neditor´s choice | pdf | data & code\n\n\n\nMiscellaneous\n\nBetter & easier data viz with raincloud plots in JASP (in-depth guide)\nYouTube Tutorial by Ott (2024) | watch\n\n\nRaincloud plots in JASP: Incredibly useful, surprisingly easy\nBlog post on jasp-stats.org by Ott (2024) | read"
+    "text": "preprinted\n\nInformative data visualization with raincloud plots in JASP\nOtt, van den Bergh, Boutin, van Doorn, Bartoš, Judd, van Langen, Korthals, Kievit, Groot,\n& Wagenmakers (2024)\npdf | data & code\n\n\nFair coins tend to land on the same side they started: Evidence from 350,757 flips\nBartoš, Sarafoglou, Godmann, 24 co-authors, Ott, 21 co-authors, & Wagenmakers (2023)\nig nobel prize | pineapple award | pdf | data & code\n\n\n\n\npeer reviewed\n\nBetter source memory for remembered to-be-forgotten items than for remembered to-be-remembered items\nOtt*, Höhs*, & Rummel (2024) | *equal contribution\nJournal of Experimental Psychology: Learning, Memory, and Cognition\neditor´s choice | pdf | data & code\n\n\n\n\nmiscellaneous\n\nBetter & easier data viz with raincloud plots in JASP (in-depth guide)\nYouTube Tutorial by Ott (2024) | watch\n\n\nRaincloud plots in JASP: Incredibly useful, surprisingly easy\nBlog post on jasp-stats.org by Ott (2024) | read"
   },
   {
     "objectID": "game.html",
@@ -32,7 +32,7 @@
     "href": "visualizations.html",
     "title": "vincent l. ott",
     "section": "",
-    "text": "astronaut spacewalking\nA spacewalk is “any activity in outer space outside a spacecraft” (Wikipedia).\n\n\n\n\n\n\n\n\nBased on the paper by Corlett et al. (2020). Bottom plot done in mere clicks.\nTechnically, both space and moon walk times are shown (extravehicular activity).\nData & Plot Code\n\n\n\nrubik’s cube records\n\n\n\nData & Plot Code"
+    "text": "astronaut spacewalking\nA spacewalk is “any activity in outer space outside a spacecraft” (Wikipedia).\n\n\n\n\n\n\n\n\nBased on the paper by Corlett et al. (2020). Bottom plot done in mere clicks.\nTechnically, both space and moon walk times are shown (extravehicular activity).\ndata & code\n\n\n\nrubik’s cube records\n\n\n\ndata & code"
   },
   {
     "objectID": "sitedetails.html",

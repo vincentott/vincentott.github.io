@@ -1,9 +1,9 @@
 ---
 page-layout: full
-sidebar: false
+toc-title: sections
 ---
 
-### Preprinted
+### preprinted
 
 #### Informative data visualization with raincloud plots in JASP
 Ott, van den Bergh, Boutin, van Doorn, Bartoš, Judd, van Langen, Korthals, Kievit,
@@ -19,8 +19,9 @@ Bartoš, Sarafoglou, Godmann, 24 co-authors, Ott, 21 co-authors, & Wagenmakers (
 [pdf](https://arxiv.org/pdf/2310.04153){target="_blank"} | 
 [data & code](https://osf.io/pxu6r/){target="_blank"}
 
+<br>
 
-### Peer reviewed
+### peer reviewed
 
 #### Better source memory for remembered to-be-forgotten items than for remembered to-be-remembered items
 Ott\*, Höhs\*, & Rummel (2024) | \*equal contribution  
@@ -29,7 +30,9 @@ Journal of Experimental Psychology: Learning, Memory, and Cognition
 [pdf](https://osf.io/v7wp2){target="_blank"} | 
 [data & code](https://osf.io/mg8ed/){target="_blank"}  
 
-### Miscellaneous
+<br>
+
+### miscellaneous
 
 #### Better & easier data viz with raincloud plots in JASP (in-depth guide)  
 YouTube Tutorial by Ott (2024) | [watch](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"} 
