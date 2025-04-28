@@ -5,9 +5,13 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
-    - text: osf
-      icon: unlock-fill
-      href: https://osf.io/6qmdv/
+    - text: linkedin
+      icon: linkedin
+      href: https://www.linkedin.com/in/vincent-l-ott-550952261/
+      target: "_blank"
+    - text: scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
       target: "_blank"
     - text: bluesky
       icon: chat-left-text
@@ -17,12 +21,12 @@ about:
       icon: github
       href: https://github.com/vincentott
       target: "_blank"
-    - text: scholar
-      icon: google
-      href: https://scholar.google.com/citations?user=b9HuDNIAAAAJ&hl=en
+    - text: osf
+      icon: unlock-fill
+      href: https://osf.io/6qmdv/
       target: "_blank"
 ---
 hi, i'm vincent. i model behavior & develop stats software.  
 ✧ amsterdam   
 
-browse my [publications](publications.qmd) or improve your data viz [in mere clicks](raincloudplots.qmd).
+browse my [research](research.qmd) or improve your data viz [in mere clicks](raincloudplots.qmd).
