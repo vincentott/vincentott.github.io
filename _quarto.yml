@@ -11,8 +11,8 @@ website:
       - href: index.qmd
         text: hi
         
-      - href: publications.qmd
-        text: publications
+      - href: research.qmd
+        text: research
         
       - href: raincloudplots.qmd
         text: raincloud plots
