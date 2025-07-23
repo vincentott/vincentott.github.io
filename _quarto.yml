@@ -4,7 +4,7 @@ project:
 
 website:
   title: "vincent l. ott"
-  favicon: "favicon.png"
+  favicon: "./pictures/favicon.png"
   search: false
   navbar:
     background: secondary
