@@ -5,5 +5,5 @@ page-layout: full
 [Click here to simulate cell behavior in a web app.](https://vincentott.shinyapps.io/livelycells/){target="_blank"}
 
 
-#### screenshot from app
+#### preview screenshot from app:
 ![](./pictures/livelycells.png)

@@ -8,6 +8,4 @@ The following helped me create this site:
 
 * <a href="https://chatgpt.com" target="_blank">ChatGPT</a>
 
-<br>
-
-The source of this website is <a href="https://github.com/vincentott/vincentott.github.io" target="_blank">here</a>.
+* <a href="https://github.com/twitter/twemoji/blob/master/assets/svg/1f33b.svg" target="_blank">Sunflower favicon</a> under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0 license</a>, ©2020 Twitter, Inc.

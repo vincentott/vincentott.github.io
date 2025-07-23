@@ -4,6 +4,7 @@ project:
 
 website:
   title: "vincent l. ott"
+  favicon: "favicon.png"
   search: false
   navbar:
     background: secondary
@@ -11,8 +12,8 @@ website:
       - href: index.qmd
         text: hi
         
-      - href: research.qmd
-        text: research
+      - href: works.qmd
+        text: works
         
       - href: raincloudplots.qmd
         text: raincloud plots

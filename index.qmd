@@ -26,7 +26,6 @@ about:
       href: https://osf.io/6qmdv/
       target: "_blank"
 ---
-hi, i'm vincent. i model behavior & develop stats software.  
-✧ amsterdam   
+hi, i'm vincent. i like statistics, cognition, coding, & the serial comma.
 
-browse my [research](research.qmd) or improve your data viz [in mere clicks](raincloudplots.qmd).
+browse my [works](works.qmd) or improve your data viz [in mere clicks](raincloudplots.qmd).

@@ -1,0 +1,35 @@
+---
+page-layout: full
+toc-title: sections
+---
+
+<br>
+
+#### software
+
+<br>
+
+see [raincloud plots](raincloudplots.qmd)
+
+<br>
+
+#### peer-reviewed articles
+
+<br>
+
+<b>Informative data visualization with raincloud plots in JASP</b>  
+Ott, van den Bergh, Boutin, van Doorn, Bartoš, Judd, van Langen, Korthals, Kievit,
+Groot, & Wagenmakers  
+accepted at <i>Behavior Research Methods</i>, [read](https://doi.org/10.31219/osf.io/gv3ph){target="_blank"}
+
+<br>
+
+<b>Fair coins tend to land on the same side they started: Evidence from 350,757 flips</b>  
+Bartoš, Sarafoglou, Godmann, 24 co-authors, Ott, 21 co-authors, & Wagenmakers  
+<i>Journal of the American Statistical Association</i>, [read](https://doi.org/10.1080/01621459.2025.2516210){target="_blank"}
+
+<br>
+
+<b>When you want to forget but fail, you remember contextual details notably well</b>  
+Ott\*, Höhs\*, & Rummel | \*equal contribution  
+<i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, [read](https://osf.io/v7wp2){target="_blank"}

@@ -7,11 +7,11 @@ page-layout: full
 <img src="./pictures/raincloudPoster.jpeg" width="66%" />
 
 [tutorial](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"} | 
-[preprint](https://doi.org/10.31219/osf.io/gv3ph){target="_blank"} | 
+[paper](https://doi.org/10.31219/osf.io/gv3ph){target="_blank"} | 
 [blogpost](https://jasp-stats.org/2024/07/26/raincloud-plots-in-jasp-incredibly-useful-surprisingly-easy/){target="_blank"}
 
 
 
 [JASP](https://jasp-stats.org/){target="_blank"} is a free statistics program with a convenient graphical user interface.  
-With it, you can easily create incredibly useful raincloud plots.
+With it you can create incredibly useful raincloud plots.
 </div>
