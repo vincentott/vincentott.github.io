@@ -3,6 +3,8 @@ page-layout: full
 toc-title: sections
 ---
 
+<div style="max-width: 900px; margin: 0 auto; text-align: left;">
+
 <br>
 
 #### software
@@ -33,3 +35,5 @@ Bartoš, Sarafoglou, Godmann, 24 co-authors, Ott, 21 co-authors, & Wagenmakers
 <b>When you want to forget but fail, you remember contextual details notably well</b>  
 Ott\*, Höhs\*, & Rummel | \*equal contribution  
 <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, [read](https://osf.io/v7wp2){target="_blank"}
+
+</div>
