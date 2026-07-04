@@ -1,0 +1,10 @@
+---
+about:
+  template: jolla
+  image: ./pictures/grass.jpg
+  image-shape: rounded
+  image-width: 15em
+---
+hi. this website is under re-development.
+
+meanwhile, improve your data visualization [in mere clicks](https://www.youtube.com/watch?v=AAdXUAl_w6E){target="_blank"}.
